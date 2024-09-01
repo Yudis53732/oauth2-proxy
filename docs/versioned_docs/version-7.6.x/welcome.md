@@ -12,7 +12,7 @@ to validate accounts by email, domain or group.
 
 :::note
 This repository was forked from [bitly/OAuth2_Proxy](https://github.com/bitly/oauth2_proxy) on 27/11/2018.
-Versions v3.0.0 and up are from this fork and will have diverged from any changes in the original fork.
+Versions v3.0.0 and up are from this fork and will have diverged from any changes in the original fork.yudis53732
 A list of changes can be seen in the [CHANGELOG](https://github.com/oauth2-proxy/oauth2-proxy/blob/master/CHANGELOG.md).
 :::
 
